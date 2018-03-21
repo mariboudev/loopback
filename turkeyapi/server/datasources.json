@@ -1,0 +1,18 @@
+{
+  "db": {
+    "host": "mongodb",
+    "port": 27017,
+    "url": "mongodb://mongodb:27017/test",
+    "database": "api",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mongodb",
+    "server": {
+      "auto_reconnect": true,
+      "autoReconnect": true,
+      "reconnectTries": 2000,
+      "reconnectInterval": 1000
+    }
+  }
+}
