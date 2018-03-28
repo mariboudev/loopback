@@ -3,7 +3,9 @@ Development API services
 
 Pre-requisites - Docker installed and deamon running
 
-Usage - `docker-compose up`.
+## Usage
+* To Start - `docker-compose up`.
+* To Stop - `docker-compose down`.
 
 This will give you a two-container set up with an API service running on `localhost:3030` and a mongo DB running on `localhost:29017`.
 
