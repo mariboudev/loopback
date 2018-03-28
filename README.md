@@ -1,7 +1,8 @@
 # loopback
 Development API services
 
-Pre-requisites - Docker installed and deamon running
+## Pre-requisites
+Docker installed and deamon running
 
 ## Usage
 * To Start - `docker-compose up`.
