@@ -9,3 +9,4 @@ This will give you a two-container set up with an API service running on `localh
 
 The API service project directory is `./turkeyapi`, and can be extended by adding new models or ACL's to the appropriate configuration files.
 
+The API 'explorer' UI can be found at `localhost:3030/explorer`.
