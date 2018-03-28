@@ -7,7 +7,7 @@ services:
       - ./turkeyapi:/user/app
       - /user/app/node_modules
     ports:
-      - "3000:3000"
+      - "3030:3000"
     container_name: turkeyapi
     depends_on:
       - mongo
