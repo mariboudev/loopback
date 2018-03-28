@@ -8,7 +8,7 @@ Docker installed and deamon running
 * To Start - `docker-compose up`.
 * To Stop - `docker-compose down`.
 
-This will give you a two-container set up with an API service running on `localhost:3030` and a mongo DB running on `localhost:29017`.
+This will give you a two-container set up with an API service running on `localhost:3030` and a mongo DB running on `localhost:27017`.
 
 The API service project directory is `./turkeyapi`, and can be extended by adding new models or ACL's to the appropriate configuration files.
 
